@@ -62,6 +62,7 @@ author:
   name   : "Richard Tovey"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "..."
+  location: "UK"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
